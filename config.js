@@ -1,3 +1,3 @@
-const baseURL= "http://localhost:5000/api"
+const baseURL= "https://server-7alf.onrender.com/api"
 
 export default baseURL

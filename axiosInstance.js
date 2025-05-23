@@ -1,6 +1,6 @@
 import axios from "axios";
 const instance =axios.create({
-    baseURL:"http://localhost:5000",
+    baseURL:"https://server-7alf.onrender.com",
     timeout:5000,
 })
 
